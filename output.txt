@@ -1,0 +1,1304 @@
+===== GENERATION 0 =====
+
+Population Details:
+[0] Genes: 1110110110, Fitness: 7
+[1] Genes: 1111010110, Fitness: 7
+[2] Genes: 1110100001, Fitness: 5
+[3] Genes: 0111100001, Fitness: 5
+[4] Genes: 0011101100, Fitness: 5
+[5] Genes: 1000110110, Fitness: 5
+[6] Genes: 1101100010, Fitness: 5
+[7] Genes: 1110100001, Fitness: 5
+[8] Genes: 0111100001, Fitness: 5
+[9] Genes: 0111100010, Fitness: 5
+[10] Genes: 1000110110, Fitness: 5
+[11] Genes: 1110000010, Fitness: 4
+[12] Genes: 1110011110, Fitness: 0
+[13] Genes: 0111001110, Fitness: 0
+[14] Genes: 1111101111, Fitness: 0
+[15] Genes: 1101111100, Fitness: 0
+[16] Genes: 1111111111, Fitness: 0
+[17] Genes: 1110011110, Fitness: 0
+[18] Genes: 1010111111, Fitness: 0
+[19] Genes: 1111101110, Fitness: 0
+Best Fitness: 7
+Population Diversity: 0.8000
+----------------------------------------
+===== GENERATION 1 =====
+
+Population Details:
+[0] Genes: 1111110110, Fitness: 8
+[1] Genes: 1110110110, Fitness: 7
+[2] Genes: 1111010110, Fitness: 7
+[3] Genes: 1111010110, Fitness: 7
+[4] Genes: 1111010110, Fitness: 7
+[5] Genes: 1110110110, Fitness: 7
+[6] Genes: 0111010110, Fitness: 6
+[7] Genes: 1111100001, Fitness: 6
+[8] Genes: 1111100001, Fitness: 6
+[9] Genes: 1110100010, Fitness: 5
+[10] Genes: 1111000000, Fitness: 4
+[11] Genes: 1111101111, Fitness: 0
+[12] Genes: 1111101101, Fitness: 0
+[13] Genes: 1111101110, Fitness: 0
+[14] Genes: 1011110111, Fitness: 0
+[15] Genes: 0010110111, Fitness: 0
+[16] Genes: 1111010101, Fitness: 0
+[17] Genes: 1110101111, Fitness: 0
+[18] Genes: 1110110111, Fitness: 0
+[19] Genes: 0111101011, Fitness: 0
+Best Fitness: 8
+Population Diversity: 0.8000
+----------------------------------------
+===== GENERATION 2 =====
+
+Population Details:
+[0] Genes: 1111110110, Fitness: 8
+[1] Genes: 1110110110, Fitness: 7
+[2] Genes: 1111010110, Fitness: 7
+[3] Genes: 1111010110, Fitness: 7
+[4] Genes: 1110110110, Fitness: 7
+[5] Genes: 1111010110, Fitness: 7
+[6] Genes: 1111010110, Fitness: 7
+[7] Genes: 1110110110, Fitness: 7
+[8] Genes: 1111110001, Fitness: 7
+[9] Genes: 1110110110, Fitness: 7
+[10] Genes: 0111010110, Fitness: 6
+[11] Genes: 0111010110, Fitness: 6
+[12] Genes: 1111100001, Fitness: 6
+[13] Genes: 0111100000, Fitness: 4
+[14] Genes: 0111010011, Fitness: 0
+[15] Genes: 0010111111, Fitness: 0
+[16] Genes: 1110111111, Fitness: 0
+[17] Genes: 1110111110, Fitness: 0
+[18] Genes: 1110110101, Fitness: 0
+[19] Genes: 1111011111, Fitness: 0
+Best Fitness: 8
+Population Diversity: 0.6500
+----------------------------------------
+===== GENERATION 3 =====
+
+Population Details:
+[0] Genes: 1111110110, Fitness: 8
+[1] Genes: 1110110110, Fitness: 7
+[2] Genes: 1111010110, Fitness: 7
+[3] Genes: 1111010110, Fitness: 7
+[4] Genes: 1110110110, Fitness: 7
+[5] Genes: 1111010110, Fitness: 7
+[6] Genes: 1111010110, Fitness: 7
+[7] Genes: 1110110110, Fitness: 7
+[8] Genes: 1110110001, Fitness: 6
+[9] Genes: 0111010110, Fitness: 6
+[10] Genes: 1111100001, Fitness: 6
+[11] Genes: 0111000110, Fitness: 5
+[12] Genes: 1111010000, Fitness: 5
+[13] Genes: 0111100010, Fitness: 5
+[14] Genes: 1111111110, Fitness: 0
+[15] Genes: 1011010011, Fitness: 0
+[16] Genes: 0111111011, Fitness: 0
+[17] Genes: 1111111110, Fitness: 0
+[18] Genes: 1111110111, Fitness: 0
+[19] Genes: 1110110111, Fitness: 0
+Best Fitness: 8
+Population Diversity: 0.7000
+----------------------------------------
+===== GENERATION 4 =====
+
+Population Details:
+[0] Genes: 1111110110, Fitness: 8
+[1] Genes: 1111110110, Fitness: 8
+[2] Genes: 1111110110, Fitness: 8
+[3] Genes: 1111110110, Fitness: 8
+[4] Genes: 1110110110, Fitness: 7
+[5] Genes: 1111010110, Fitness: 7
+[6] Genes: 1110110110, Fitness: 7
+[7] Genes: 1111010110, Fitness: 7
+[8] Genes: 1111010110, Fitness: 7
+[9] Genes: 1111010110, Fitness: 7
+[10] Genes: 1110110110, Fitness: 7
+[11] Genes: 1101010110, Fitness: 6
+[12] Genes: 1101010110, Fitness: 6
+[13] Genes: 1111100001, Fitness: 6
+[14] Genes: 1111100100, Fitness: 6
+[15] Genes: 0001110110, Fitness: 5
+[16] Genes: 1111101101, Fitness: 0
+[17] Genes: 1111111011, Fitness: 0
+[18] Genes: 1110111001, Fitness: 0
+[19] Genes: 1111011110, Fitness: 0
+Best Fitness: 8
+Population Diversity: 0.5500
+----------------------------------------
+===== GENERATION 5 =====
+
+Population Details:
+[0] Genes: 1111110110, Fitness: 8
+[1] Genes: 1111110110, Fitness: 8
+[2] Genes: 1111110110, Fitness: 8
+[3] Genes: 1111110110, Fitness: 8
+[4] Genes: 1110110110, Fitness: 7
+[5] Genes: 1111010110, Fitness: 7
+[6] Genes: 1110110110, Fitness: 7
+[7] Genes: 1110110110, Fitness: 7
+[8] Genes: 0111110110, Fitness: 7
+[9] Genes: 1110110110, Fitness: 7
+[10] Genes: 1111010110, Fitness: 7
+[11] Genes: 1111100010, Fitness: 6
+[12] Genes: 1011010110, Fitness: 6
+[13] Genes: 1110110001, Fitness: 6
+[14] Genes: 0110010110, Fitness: 5
+[15] Genes: 1011011010, Fitness: 0
+[16] Genes: 1010011110, Fitness: 0
+[17] Genes: 1111111110, Fitness: 0
+[18] Genes: 0101011111, Fitness: 0
+[19] Genes: 1111111111, Fitness: 0
+Best Fitness: 8
+Population Diversity: 0.6500
+----------------------------------------
+===== GENERATION 6 =====
+
+Population Details:
+[0] Genes: 1111110110, Fitness: 8
+[1] Genes: 1111110110, Fitness: 8
+[2] Genes: 1111110110, Fitness: 8
+[3] Genes: 1111110110, Fitness: 8
+[4] Genes: 1110110110, Fitness: 7
+[5] Genes: 1111110010, Fitness: 7
+[6] Genes: 1110110110, Fitness: 7
+[7] Genes: 1110110110, Fitness: 7
+[8] Genes: 1111010110, Fitness: 7
+[9] Genes: 1110010110, Fitness: 6
+[10] Genes: 0111010110, Fitness: 6
+[11] Genes: 1101010100, Fitness: 5
+[12] Genes: 0111110111, Fitness: 0
+[13] Genes: 1111110011, Fitness: 0
+[14] Genes: 1111101110, Fitness: 0
+[15] Genes: 1111111110, Fitness: 0
+[16] Genes: 1101111110, Fitness: 0
+[17] Genes: 1111110111, Fitness: 0
+[18] Genes: 0101111100, Fitness: 0
+[19] Genes: 1111111110, Fitness: 0
+Best Fitness: 8
+Population Diversity: 0.7000
+----------------------------------------
+===== GENERATION 7 =====
+
+Population Details:
+[0] Genes: 1111110110, Fitness: 8
+[1] Genes: 1111110110, Fitness: 8
+[2] Genes: 1111110110, Fitness: 8
+[3] Genes: 1111110110, Fitness: 8
+[4] Genes: 1111110110, Fitness: 8
+[5] Genes: 1111110110, Fitness: 8
+[6] Genes: 1111110110, Fitness: 8
+[7] Genes: 1111110010, Fitness: 7
+[8] Genes: 1011110110, Fitness: 7
+[9] Genes: 1110110110, Fitness: 7
+[10] Genes: 1111110010, Fitness: 7
+[11] Genes: 1110010110, Fitness: 6
+[12] Genes: 1110110010, Fitness: 6
+[13] Genes: 0111010110, Fitness: 6
+[14] Genes: 1111111101, Fitness: 0
+[15] Genes: 1111111111, Fitness: 0
+[16] Genes: 1111110111, Fitness: 0
+[17] Genes: 1111111110, Fitness: 0
+[18] Genes: 1110101111, Fitness: 0
+[19] Genes: 1111111111, Fitness: 0
+Best Fitness: 8
+Population Diversity: 0.6000
+----------------------------------------
+===== GENERATION 8 =====
+
+Population Details:
+[0] Genes: 1111110110, Fitness: 8
+[1] Genes: 1111110110, Fitness: 8
+[2] Genes: 1111110110, Fitness: 8
+[3] Genes: 1111110110, Fitness: 8
+[4] Genes: 1111110110, Fitness: 8
+[5] Genes: 1111110110, Fitness: 8
+[6] Genes: 1111110110, Fitness: 8
+[7] Genes: 1111110110, Fitness: 8
+[8] Genes: 1111110110, Fitness: 8
+[9] Genes: 1111110110, Fitness: 8
+[10] Genes: 1111110110, Fitness: 8
+[11] Genes: 1011110110, Fitness: 7
+[12] Genes: 1110110110, Fitness: 7
+[13] Genes: 1111010110, Fitness: 7
+[14] Genes: 1011110110, Fitness: 7
+[15] Genes: 1111110010, Fitness: 7
+[16] Genes: 0110110110, Fitness: 6
+[17] Genes: 1111111110, Fitness: 0
+[18] Genes: 1111111111, Fitness: 0
+[19] Genes: 1100101010, Fitness: 0
+Best Fitness: 8
+Population Diversity: 0.4500
+----------------------------------------
+===== GENERATION 9 =====
+
+Population Details:
+[0] Genes: 1111110110, Fitness: 8
+[1] Genes: 1111110110, Fitness: 8
+[2] Genes: 1111110110, Fitness: 8
+[3] Genes: 1111110110, Fitness: 8
+[4] Genes: 1111110110, Fitness: 8
+[5] Genes: 1111110110, Fitness: 8
+[6] Genes: 1111110110, Fitness: 8
+[7] Genes: 0111110110, Fitness: 7
+[8] Genes: 1111110100, Fitness: 7
+[9] Genes: 0111110110, Fitness: 7
+[10] Genes: 0111110110, Fitness: 7
+[11] Genes: 1011110110, Fitness: 7
+[12] Genes: 1111110010, Fitness: 7
+[13] Genes: 1110110110, Fitness: 7
+[14] Genes: 1111110010, Fitness: 7
+[15] Genes: 1111010100, Fitness: 6
+[16] Genes: 1101110111, Fitness: 0
+[17] Genes: 0111111110, Fitness: 0
+[18] Genes: 1110110111, Fitness: 0
+[19] Genes: 1111101111, Fitness: 0
+Best Fitness: 8
+Population Diversity: 0.5500
+----------------------------------------
+===== GENERATION 10 =====
+
+Population Details:
+[0] Genes: 1111110110, Fitness: 8
+[1] Genes: 1111110110, Fitness: 8
+[2] Genes: 1111110110, Fitness: 8
+[3] Genes: 1111110110, Fitness: 8
+[4] Genes: 1111110110, Fitness: 8
+[5] Genes: 1111110110, Fitness: 8
+[6] Genes: 1111110110, Fitness: 8
+[7] Genes: 1111110110, Fitness: 8
+[8] Genes: 1111110110, Fitness: 8
+[9] Genes: 1011110110, Fitness: 7
+[10] Genes: 1111110010, Fitness: 7
+[11] Genes: 1111100110, Fitness: 7
+[12] Genes: 1110110110, Fitness: 7
+[13] Genes: 0111010110, Fitness: 6
+[14] Genes: 1111100111, Fitness: 0
+[15] Genes: 1110110111, Fitness: 0
+[16] Genes: 1111111111, Fitness: 0
+[17] Genes: 0111111111, Fitness: 0
+[18] Genes: 1111111110, Fitness: 0
+[19] Genes: 1110111011, Fitness: 0
+Best Fitness: 8
+Population Diversity: 0.6000
+----------------------------------------
+===== GENERATION 11 =====
+
+Population Details:
+[0] Genes: 1111110110, Fitness: 8
+[1] Genes: 1111110110, Fitness: 8
+[2] Genes: 1111110110, Fitness: 8
+[3] Genes: 1111110110, Fitness: 8
+[4] Genes: 1111110110, Fitness: 8
+[5] Genes: 1111110110, Fitness: 8
+[6] Genes: 1111110110, Fitness: 8
+[7] Genes: 1111110110, Fitness: 8
+[8] Genes: 1111110110, Fitness: 8
+[9] Genes: 1111110110, Fitness: 8
+[10] Genes: 1111110110, Fitness: 8
+[11] Genes: 1111110110, Fitness: 8
+[12] Genes: 1111110110, Fitness: 8
+[13] Genes: 1110110110, Fitness: 7
+[14] Genes: 0111110110, Fitness: 7
+[15] Genes: 1110110110, Fitness: 7
+[16] Genes: 1111110100, Fitness: 7
+[17] Genes: 1111111110, Fitness: 0
+[18] Genes: 1111110111, Fitness: 0
+[19] Genes: 1110111100, Fitness: 0
+Best Fitness: 8
+Population Diversity: 0.3500
+----------------------------------------
+===== GENERATION 12 =====
+
+Population Details:
+[0] Genes: 1111110110, Fitness: 8
+[1] Genes: 1111110110, Fitness: 8
+[2] Genes: 1111110110, Fitness: 8
+[3] Genes: 1111110110, Fitness: 8
+[4] Genes: 1111110110, Fitness: 8
+[5] Genes: 1111110110, Fitness: 8
+[6] Genes: 1111110110, Fitness: 8
+[7] Genes: 1111110110, Fitness: 8
+[8] Genes: 1111110110, Fitness: 8
+[9] Genes: 1101110110, Fitness: 7
+[10] Genes: 1110110110, Fitness: 7
+[11] Genes: 1111010110, Fitness: 7
+[12] Genes: 1011110110, Fitness: 7
+[13] Genes: 1011100110, Fitness: 6
+[14] Genes: 1111111110, Fitness: 0
+[15] Genes: 1111110101, Fitness: 0
+[16] Genes: 1111110111, Fitness: 0
+[17] Genes: 1101111110, Fitness: 0
+[18] Genes: 1111111110, Fitness: 0
+[19] Genes: 1111011111, Fitness: 0
+Best Fitness: 8
+Population Diversity: 0.5500
+----------------------------------------
+===== GENERATION 13 =====
+
+Population Details:
+[0] Genes: 1111110110, Fitness: 8
+[1] Genes: 1111110110, Fitness: 8
+[2] Genes: 1111110110, Fitness: 8
+[3] Genes: 1111110110, Fitness: 8
+[4] Genes: 1111110110, Fitness: 8
+[5] Genes: 1111110110, Fitness: 8
+[6] Genes: 1111110110, Fitness: 8
+[7] Genes: 1111110110, Fitness: 8
+[8] Genes: 1111100110, Fitness: 7
+[9] Genes: 1111010110, Fitness: 7
+[10] Genes: 1110110110, Fitness: 7
+[11] Genes: 1111100110, Fitness: 7
+[12] Genes: 1011111110, Fitness: 0
+[13] Genes: 1101110111, Fitness: 0
+[14] Genes: 1111100111, Fitness: 0
+[15] Genes: 1111111010, Fitness: 0
+[16] Genes: 1111111111, Fitness: 0
+[17] Genes: 1111111110, Fitness: 0
+[18] Genes: 1111111111, Fitness: 0
+[19] Genes: 1111110111, Fitness: 0
+Best Fitness: 8
+Population Diversity: 0.5500
+----------------------------------------
+===== GENERATION 14 =====
+
+Population Details:
+[0] Genes: 1111110110, Fitness: 8
+[1] Genes: 1111110110, Fitness: 8
+[2] Genes: 1111110110, Fitness: 8
+[3] Genes: 1111110110, Fitness: 8
+[4] Genes: 1111110110, Fitness: 8
+[5] Genes: 1111110110, Fitness: 8
+[6] Genes: 1111100110, Fitness: 7
+[7] Genes: 0111100110, Fitness: 6
+[8] Genes: 1101100110, Fitness: 6
+[9] Genes: 1001110110, Fitness: 6
+[10] Genes: 0111110111, Fitness: 0
+[11] Genes: 1111110111, Fitness: 0
+[12] Genes: 1111100111, Fitness: 0
+[13] Genes: 1111111010, Fitness: 0
+[14] Genes: 0111110111, Fitness: 0
+[15] Genes: 1111110111, Fitness: 0
+[16] Genes: 1111111110, Fitness: 0
+[17] Genes: 1110111110, Fitness: 0
+[18] Genes: 1111111110, Fitness: 0
+[19] Genes: 1111111110, Fitness: 0
+Best Fitness: 8
+Population Diversity: 0.5500
+----------------------------------------
+===== GENERATION 15 =====
+
+Population Details:
+[0] Genes: 1111110110, Fitness: 8
+[1] Genes: 1111110110, Fitness: 8
+[2] Genes: 1111110110, Fitness: 8
+[3] Genes: 1111110110, Fitness: 8
+[4] Genes: 1111110110, Fitness: 8
+[5] Genes: 1111110110, Fitness: 8
+[6] Genes: 1111110110, Fitness: 8
+[7] Genes: 1111100110, Fitness: 7
+[8] Genes: 1111100110, Fitness: 7
+[9] Genes: 0111110110, Fitness: 7
+[10] Genes: 1111110100, Fitness: 7
+[11] Genes: 0111100110, Fitness: 6
+[12] Genes: 1011010110, Fitness: 6
+[13] Genes: 1110100100, Fitness: 5
+[14] Genes: 1111011111, Fitness: 0
+[15] Genes: 1111010111, Fitness: 0
+[16] Genes: 1110111110, Fitness: 0
+[17] Genes: 1111110111, Fitness: 0
+[18] Genes: 1111111111, Fitness: 0
+[19] Genes: 1111110111, Fitness: 0
+Best Fitness: 8
+Population Diversity: 0.6000
+----------------------------------------
+===== GENERATION 16 =====
+
+Population Details:
+[0] Genes: 1111110110, Fitness: 8
+[1] Genes: 1111110110, Fitness: 8
+[2] Genes: 1111110110, Fitness: 8
+[3] Genes: 1111110110, Fitness: 8
+[4] Genes: 1111110110, Fitness: 8
+[5] Genes: 1111110110, Fitness: 8
+[6] Genes: 1111110110, Fitness: 8
+[7] Genes: 1111110110, Fitness: 8
+[8] Genes: 1111110110, Fitness: 8
+[9] Genes: 1111110110, Fitness: 8
+[10] Genes: 1110110110, Fitness: 7
+[11] Genes: 1110110110, Fitness: 7
+[12] Genes: 1111110010, Fitness: 7
+[13] Genes: 1101010110, Fitness: 6
+[14] Genes: 1111111110, Fitness: 0
+[15] Genes: 1111111110, Fitness: 0
+[16] Genes: 1111110111, Fitness: 0
+[17] Genes: 1011100111, Fitness: 0
+[18] Genes: 1111001111, Fitness: 0
+[19] Genes: 1110111111, Fitness: 0
+Best Fitness: 8
+Population Diversity: 0.4500
+----------------------------------------
+===== GENERATION 17 =====
+
+Population Details:
+[0] Genes: 1111110110, Fitness: 8
+[1] Genes: 1111110110, Fitness: 8
+[2] Genes: 1111110110, Fitness: 8
+[3] Genes: 1111110110, Fitness: 8
+[4] Genes: 1111110110, Fitness: 8
+[5] Genes: 1111110110, Fitness: 8
+[6] Genes: 1111110110, Fitness: 8
+[7] Genes: 1111110110, Fitness: 8
+[8] Genes: 1111110110, Fitness: 8
+[9] Genes: 1110110110, Fitness: 7
+[10] Genes: 1110110110, Fitness: 7
+[11] Genes: 1101010110, Fitness: 6
+[12] Genes: 1001110110, Fitness: 6
+[13] Genes: 0111100110, Fitness: 6
+[14] Genes: 1100110110, Fitness: 6
+[15] Genes: 1000110110, Fitness: 5
+[16] Genes: 1111110111, Fitness: 0
+[17] Genes: 1111111110, Fitness: 0
+[18] Genes: 0111111111, Fitness: 0
+[19] Genes: 1111111110, Fitness: 0
+Best Fitness: 8
+Population Diversity: 0.5000
+----------------------------------------
+===== GENERATION 18 =====
+
+Population Details:
+[0] Genes: 1111110110, Fitness: 8
+[1] Genes: 1111110110, Fitness: 8
+[2] Genes: 1111110110, Fitness: 8
+[3] Genes: 1111110110, Fitness: 8
+[4] Genes: 1101110110, Fitness: 7
+[5] Genes: 1101110110, Fitness: 7
+[6] Genes: 1011110110, Fitness: 7
+[7] Genes: 1111110010, Fitness: 7
+[8] Genes: 1011110110, Fitness: 7
+[9] Genes: 1101110100, Fitness: 6
+[10] Genes: 1100110110, Fitness: 6
+[11] Genes: 1110100110, Fitness: 6
+[12] Genes: 1111010010, Fitness: 6
+[13] Genes: 1100110110, Fitness: 6
+[14] Genes: 1111111101, Fitness: 0
+[15] Genes: 1111111110, Fitness: 0
+[16] Genes: 1111111110, Fitness: 0
+[17] Genes: 0111110111, Fitness: 0
+[18] Genes: 1110110111, Fitness: 0
+[19] Genes: 1111111110, Fitness: 0
+Best Fitness: 8
+Population Diversity: 0.6000
+----------------------------------------
+===== GENERATION 19 =====
+
+Population Details:
+[0] Genes: 1111110110, Fitness: 8
+[1] Genes: 1111110110, Fitness: 8
+[2] Genes: 1111110110, Fitness: 8
+[3] Genes: 1111110110, Fitness: 8
+[4] Genes: 1111110110, Fitness: 8
+[5] Genes: 1111110110, Fitness: 8
+[6] Genes: 1111110010, Fitness: 7
+[7] Genes: 1111110010, Fitness: 7
+[8] Genes: 1111100110, Fitness: 7
+[9] Genes: 1101110110, Fitness: 7
+[10] Genes: 1011110110, Fitness: 7
+[11] Genes: 1111110010, Fitness: 7
+[12] Genes: 1100110110, Fitness: 6
+[13] Genes: 1100110110, Fitness: 6
+[14] Genes: 1101110010, Fitness: 6
+[15] Genes: 1111110000, Fitness: 6
+[16] Genes: 1111110111, Fitness: 0
+[17] Genes: 1111110111, Fitness: 0
+[18] Genes: 1110111111, Fitness: 0
+[19] Genes: 1111110111, Fitness: 0
+Best Fitness: 8
+Population Diversity: 0.5000
+----------------------------------------
+===== GENERATION 20 =====
+
+Population Details:
+[0] Genes: 1111110110, Fitness: 8
+[1] Genes: 1111110110, Fitness: 8
+[2] Genes: 1111110110, Fitness: 8
+[3] Genes: 1111110110, Fitness: 8
+[4] Genes: 1111110110, Fitness: 8
+[5] Genes: 1111110110, Fitness: 8
+[6] Genes: 1111110110, Fitness: 8
+[7] Genes: 1111110110, Fitness: 8
+[8] Genes: 1111110110, Fitness: 8
+[9] Genes: 1111110110, Fitness: 8
+[10] Genes: 1101110110, Fitness: 7
+[11] Genes: 1101110110, Fitness: 7
+[12] Genes: 1101110110, Fitness: 7
+[13] Genes: 1111110100, Fitness: 7
+[14] Genes: 1111100110, Fitness: 7
+[15] Genes: 1111110100, Fitness: 7
+[16] Genes: 1101100110, Fitness: 6
+[17] Genes: 1011111111, Fitness: 0
+[18] Genes: 1111111110, Fitness: 0
+[19] Genes: 1011111110, Fitness: 0
+Best Fitness: 8
+Population Diversity: 0.4000
+----------------------------------------
+===== GENERATION 21 =====
+
+Population Details:
+[0] Genes: 1111110110, Fitness: 8
+[1] Genes: 1111110110, Fitness: 8
+[2] Genes: 1111110110, Fitness: 8
+[3] Genes: 1111110110, Fitness: 8
+[4] Genes: 1111110110, Fitness: 8
+[5] Genes: 1111110110, Fitness: 8
+[6] Genes: 1111110110, Fitness: 8
+[7] Genes: 1111110110, Fitness: 8
+[8] Genes: 1111110110, Fitness: 8
+[9] Genes: 1111110110, Fitness: 8
+[10] Genes: 1011110110, Fitness: 7
+[11] Genes: 1111010110, Fitness: 7
+[12] Genes: 1111110010, Fitness: 7
+[13] Genes: 1111101110, Fitness: 0
+[14] Genes: 1111111110, Fitness: 0
+[15] Genes: 1110111110, Fitness: 0
+[16] Genes: 1111110111, Fitness: 0
+[17] Genes: 1011111110, Fitness: 0
+[18] Genes: 1111011111, Fitness: 0
+[19] Genes: 1111111110, Fitness: 0
+Best Fitness: 8
+Population Diversity: 0.5000
+----------------------------------------
+===== GENERATION 22 =====
+
+Population Details:
+[0] Genes: 1111110110, Fitness: 8
+[1] Genes: 1111110110, Fitness: 8
+[2] Genes: 1111110110, Fitness: 8
+[3] Genes: 1111110110, Fitness: 8
+[4] Genes: 1111110110, Fitness: 8
+[5] Genes: 1111110110, Fitness: 8
+[6] Genes: 1111110010, Fitness: 7
+[7] Genes: 1101110110, Fitness: 7
+[8] Genes: 1111110100, Fitness: 7
+[9] Genes: 1011110110, Fitness: 7
+[10] Genes: 1111110111, Fitness: 0
+[11] Genes: 1111110111, Fitness: 0
+[12] Genes: 1111011111, Fitness: 0
+[13] Genes: 1111111110, Fitness: 0
+[14] Genes: 1111110111, Fitness: 0
+[15] Genes: 1111111110, Fitness: 0
+[16] Genes: 1111111110, Fitness: 0
+[17] Genes: 1111111111, Fitness: 0
+[18] Genes: 0111111111, Fitness: 0
+[19] Genes: 1011110111, Fitness: 0
+Best Fitness: 8
+Population Diversity: 0.5500
+----------------------------------------
+===== GENERATION 23 =====
+
+Population Details:
+[0] Genes: 1111110110, Fitness: 8
+[1] Genes: 1111110110, Fitness: 8
+[2] Genes: 1111110110, Fitness: 8
+[3] Genes: 1111110110, Fitness: 8
+[4] Genes: 1111110110, Fitness: 8
+[5] Genes: 1111110110, Fitness: 8
+[6] Genes: 1111100110, Fitness: 7
+[7] Genes: 1111110100, Fitness: 7
+[8] Genes: 1111010110, Fitness: 7
+[9] Genes: 0111110110, Fitness: 7
+[10] Genes: 1011100110, Fitness: 6
+[11] Genes: 1111110111, Fitness: 0
+[12] Genes: 0111111110, Fitness: 0
+[13] Genes: 1111111111, Fitness: 0
+[14] Genes: 1111110101, Fitness: 0
+[15] Genes: 1011111010, Fitness: 0
+[16] Genes: 1111111100, Fitness: 0
+[17] Genes: 1111110111, Fitness: 0
+[18] Genes: 1111111110, Fitness: 0
+[19] Genes: 1111111110, Fitness: 0
+Best Fitness: 8
+Population Diversity: 0.6500
+----------------------------------------
+===== GENERATION 24 =====
+
+Population Details:
+[0] Genes: 1111110110, Fitness: 8
+[1] Genes: 1111110110, Fitness: 8
+[2] Genes: 1111110110, Fitness: 8
+[3] Genes: 1111110110, Fitness: 8
+[4] Genes: 1111110110, Fitness: 8
+[5] Genes: 1111110110, Fitness: 8
+[6] Genes: 1111110110, Fitness: 8
+[7] Genes: 1111010110, Fitness: 7
+[8] Genes: 1111110100, Fitness: 7
+[9] Genes: 1101110110, Fitness: 7
+[10] Genes: 1111010110, Fitness: 7
+[11] Genes: 1011110100, Fitness: 6
+[12] Genes: 1101110111, Fitness: 0
+[13] Genes: 1111111111, Fitness: 0
+[14] Genes: 1100101111, Fitness: 0
+[15] Genes: 1111111110, Fitness: 0
+[16] Genes: 1111110111, Fitness: 0
+[17] Genes: 1111111110, Fitness: 0
+[18] Genes: 1111111111, Fitness: 0
+[19] Genes: 1111011110, Fitness: 0
+Best Fitness: 8
+Population Diversity: 0.5500
+----------------------------------------
+===== GENERATION 25 =====
+
+Population Details:
+[0] Genes: 1111110110, Fitness: 8
+[1] Genes: 1111110110, Fitness: 8
+[2] Genes: 1111110110, Fitness: 8
+[3] Genes: 1111110110, Fitness: 8
+[4] Genes: 1111110110, Fitness: 8
+[5] Genes: 1111110110, Fitness: 8
+[6] Genes: 1110110110, Fitness: 7
+[7] Genes: 1111010110, Fitness: 7
+[8] Genes: 1101110110, Fitness: 7
+[9] Genes: 1111110100, Fitness: 7
+[10] Genes: 1111110100, Fitness: 7
+[11] Genes: 1101110110, Fitness: 7
+[12] Genes: 1011010110, Fitness: 6
+[13] Genes: 1101010110, Fitness: 6
+[14] Genes: 1111111011, Fitness: 0
+[15] Genes: 1111110111, Fitness: 0
+[16] Genes: 1101110111, Fitness: 0
+[17] Genes: 0111111110, Fitness: 0
+[18] Genes: 1111111111, Fitness: 0
+[19] Genes: 1111110111, Fitness: 0
+Best Fitness: 8
+Population Diversity: 0.6000
+----------------------------------------
+===== GENERATION 26 =====
+
+Population Details:
+[0] Genes: 1111110110, Fitness: 8
+[1] Genes: 1111110110, Fitness: 8
+[2] Genes: 1111110110, Fitness: 8
+[3] Genes: 1111110110, Fitness: 8
+[4] Genes: 1111110110, Fitness: 8
+[5] Genes: 1111110110, Fitness: 8
+[6] Genes: 1111110110, Fitness: 8
+[7] Genes: 1111010110, Fitness: 7
+[8] Genes: 1111100110, Fitness: 7
+[9] Genes: 1111110100, Fitness: 7
+[10] Genes: 0111110110, Fitness: 7
+[11] Genes: 1111110010, Fitness: 7
+[12] Genes: 1011110110, Fitness: 7
+[13] Genes: 1111110010, Fitness: 7
+[14] Genes: 1111110100, Fitness: 7
+[15] Genes: 1001110110, Fitness: 6
+[16] Genes: 0111100110, Fitness: 6
+[17] Genes: 1101010110, Fitness: 6
+[18] Genes: 1101101110, Fitness: 0
+[19] Genes: 1110111110, Fitness: 0
+Best Fitness: 8
+Population Diversity: 0.6000
+----------------------------------------
+===== GENERATION 27 =====
+
+Population Details:
+[0] Genes: 1111110110, Fitness: 8
+[1] Genes: 1111110110, Fitness: 8
+[2] Genes: 1111110110, Fitness: 8
+[3] Genes: 1111110110, Fitness: 8
+[4] Genes: 1111110110, Fitness: 8
+[5] Genes: 1111110110, Fitness: 8
+[6] Genes: 1111110110, Fitness: 8
+[7] Genes: 1111110110, Fitness: 8
+[8] Genes: 1111110110, Fitness: 8
+[9] Genes: 1111110010, Fitness: 7
+[10] Genes: 1111100110, Fitness: 7
+[11] Genes: 1111110010, Fitness: 7
+[12] Genes: 1111110100, Fitness: 7
+[13] Genes: 1110110110, Fitness: 7
+[14] Genes: 0111100110, Fitness: 6
+[15] Genes: 1110110010, Fitness: 6
+[16] Genes: 1111110111, Fitness: 0
+[17] Genes: 1011111010, Fitness: 0
+[18] Genes: 0101111110, Fitness: 0
+[19] Genes: 0111110111, Fitness: 0
+Best Fitness: 8
+Population Diversity: 0.5500
+----------------------------------------
+===== GENERATION 28 =====
+
+Population Details:
+[0] Genes: 1111110110, Fitness: 8
+[1] Genes: 1111110110, Fitness: 8
+[2] Genes: 1111110110, Fitness: 8
+[3] Genes: 1111110110, Fitness: 8
+[4] Genes: 1111110110, Fitness: 8
+[5] Genes: 1111110110, Fitness: 8
+[6] Genes: 1101110110, Fitness: 7
+[7] Genes: 1111100110, Fitness: 7
+[8] Genes: 1110110110, Fitness: 7
+[9] Genes: 1110110110, Fitness: 7
+[10] Genes: 1111110010, Fitness: 7
+[11] Genes: 1011110110, Fitness: 7
+[12] Genes: 1111100100, Fitness: 6
+[13] Genes: 1111111110, Fitness: 0
+[14] Genes: 1111110111, Fitness: 0
+[15] Genes: 1111111110, Fitness: 0
+[16] Genes: 0111110111, Fitness: 0
+[17] Genes: 1111111110, Fitness: 0
+[18] Genes: 1111111110, Fitness: 0
+[19] Genes: 1111111111, Fitness: 0
+Best Fitness: 8
+Population Diversity: 0.5500
+----------------------------------------
+===== GENERATION 29 =====
+
+Population Details:
+[0] Genes: 1111110110, Fitness: 8
+[1] Genes: 1111110110, Fitness: 8
+[2] Genes: 1111110110, Fitness: 8
+[3] Genes: 1111110110, Fitness: 8
+[4] Genes: 1111110110, Fitness: 8
+[5] Genes: 1111110110, Fitness: 8
+[6] Genes: 1111110110, Fitness: 8
+[7] Genes: 1111110110, Fitness: 8
+[8] Genes: 1111110110, Fitness: 8
+[9] Genes: 1111110110, Fitness: 8
+[10] Genes: 1011110110, Fitness: 7
+[11] Genes: 1111010110, Fitness: 7
+[12] Genes: 1101110110, Fitness: 7
+[13] Genes: 1110110110, Fitness: 7
+[14] Genes: 0111110110, Fitness: 7
+[15] Genes: 1111110100, Fitness: 7
+[16] Genes: 1111110111, Fitness: 0
+[17] Genes: 1110111111, Fitness: 0
+[18] Genes: 1101111110, Fitness: 0
+[19] Genes: 1111111110, Fitness: 0
+Best Fitness: 8
+Population Diversity: 0.5500
+----------------------------------------
+===== GENERATION 30 =====
+
+Population Details:
+[0] Genes: 1111110110, Fitness: 8
+[1] Genes: 1111110110, Fitness: 8
+[2] Genes: 1111110110, Fitness: 8
+[3] Genes: 1111110110, Fitness: 8
+[4] Genes: 1111110110, Fitness: 8
+[5] Genes: 1111110110, Fitness: 8
+[6] Genes: 1111110110, Fitness: 8
+[7] Genes: 1111110110, Fitness: 8
+[8] Genes: 1011110110, Fitness: 7
+[9] Genes: 1110110110, Fitness: 7
+[10] Genes: 1111010110, Fitness: 7
+[11] Genes: 1111110010, Fitness: 7
+[12] Genes: 0111010110, Fitness: 6
+[13] Genes: 1101110101, Fitness: 0
+[14] Genes: 1111110111, Fitness: 0
+[15] Genes: 1011110111, Fitness: 0
+[16] Genes: 1111111101, Fitness: 0
+[17] Genes: 1111101110, Fitness: 0
+[18] Genes: 1111110111, Fitness: 0
+[19] Genes: 0111111110, Fitness: 0
+Best Fitness: 8
+Population Diversity: 0.6000
+----------------------------------------
+===== GENERATION 31 =====
+
+Population Details:
+[0] Genes: 1111110110, Fitness: 8
+[1] Genes: 1111110110, Fitness: 8
+[2] Genes: 1111110110, Fitness: 8
+[3] Genes: 1111110110, Fitness: 8
+[4] Genes: 1111110110, Fitness: 8
+[5] Genes: 1111110110, Fitness: 8
+[6] Genes: 1111110110, Fitness: 8
+[7] Genes: 1111110110, Fitness: 8
+[8] Genes: 1111110110, Fitness: 8
+[9] Genes: 1111110110, Fitness: 8
+[10] Genes: 1101110110, Fitness: 7
+[11] Genes: 1110110110, Fitness: 7
+[12] Genes: 1011110110, Fitness: 7
+[13] Genes: 1111110010, Fitness: 7
+[14] Genes: 1111110100, Fitness: 7
+[15] Genes: 1111010110, Fitness: 7
+[16] Genes: 1111110000, Fitness: 6
+[17] Genes: 1111111111, Fitness: 0
+[18] Genes: 1111111110, Fitness: 0
+[19] Genes: 1111110111, Fitness: 0
+Best Fitness: 8
+Population Diversity: 0.5500
+----------------------------------------
+===== GENERATION 32 =====
+
+Population Details:
+[0] Genes: 1111110110, Fitness: 8
+[1] Genes: 1111110110, Fitness: 8
+[2] Genes: 1111110110, Fitness: 8
+[3] Genes: 1111110110, Fitness: 8
+[4] Genes: 1111110110, Fitness: 8
+[5] Genes: 1111110110, Fitness: 8
+[6] Genes: 1111110110, Fitness: 8
+[7] Genes: 1111110110, Fitness: 8
+[8] Genes: 1111110110, Fitness: 8
+[9] Genes: 1111110110, Fitness: 8
+[10] Genes: 1111110110, Fitness: 8
+[11] Genes: 1111110110, Fitness: 8
+[12] Genes: 1011110110, Fitness: 7
+[13] Genes: 1110110110, Fitness: 7
+[14] Genes: 1110110110, Fitness: 7
+[15] Genes: 1111110111, Fitness: 0
+[16] Genes: 1111110111, Fitness: 0
+[17] Genes: 1111110111, Fitness: 0
+[18] Genes: 1111110111, Fitness: 0
+[19] Genes: 1111111110, Fitness: 0
+Best Fitness: 8
+Population Diversity: 0.2500
+----------------------------------------
+===== GENERATION 33 =====
+
+Population Details:
+[0] Genes: 1111110110, Fitness: 8
+[1] Genes: 1111110110, Fitness: 8
+[2] Genes: 1111110110, Fitness: 8
+[3] Genes: 1111110110, Fitness: 8
+[4] Genes: 1111110110, Fitness: 8
+[5] Genes: 1111110110, Fitness: 8
+[6] Genes: 1111110110, Fitness: 8
+[7] Genes: 1111110110, Fitness: 8
+[8] Genes: 1111110110, Fitness: 8
+[9] Genes: 1111110110, Fitness: 8
+[10] Genes: 1111110110, Fitness: 8
+[11] Genes: 1111110110, Fitness: 8
+[12] Genes: 1111110010, Fitness: 7
+[13] Genes: 1111110100, Fitness: 7
+[14] Genes: 1110110110, Fitness: 7
+[15] Genes: 1101110110, Fitness: 7
+[16] Genes: 1011110110, Fitness: 7
+[17] Genes: 1111111111, Fitness: 0
+[18] Genes: 1111001110, Fitness: 0
+[19] Genes: 0111111110, Fitness: 0
+Best Fitness: 8
+Population Diversity: 0.4500
+----------------------------------------
+===== GENERATION 34 =====
+
+Population Details:
+[0] Genes: 1111110110, Fitness: 8
+[1] Genes: 1111110110, Fitness: 8
+[2] Genes: 1111110110, Fitness: 8
+[3] Genes: 1111110110, Fitness: 8
+[4] Genes: 1111110110, Fitness: 8
+[5] Genes: 1111110110, Fitness: 8
+[6] Genes: 1111110110, Fitness: 8
+[7] Genes: 1111110110, Fitness: 8
+[8] Genes: 1111110110, Fitness: 8
+[9] Genes: 1111110110, Fitness: 8
+[10] Genes: 0111110110, Fitness: 7
+[11] Genes: 1110110110, Fitness: 7
+[12] Genes: 1111110010, Fitness: 7
+[13] Genes: 1011110110, Fitness: 7
+[14] Genes: 1011110110, Fitness: 7
+[15] Genes: 1011111100, Fitness: 0
+[16] Genes: 1110111111, Fitness: 0
+[17] Genes: 1111111111, Fitness: 0
+[18] Genes: 1111111010, Fitness: 0
+[19] Genes: 1111110111, Fitness: 0
+Best Fitness: 8
+Population Diversity: 0.5000
+----------------------------------------
+===== GENERATION 35 =====
+
+Population Details:
+[0] Genes: 1111110110, Fitness: 8
+[1] Genes: 1111110110, Fitness: 8
+[2] Genes: 1111110110, Fitness: 8
+[3] Genes: 1111110110, Fitness: 8
+[4] Genes: 1111110110, Fitness: 8
+[5] Genes: 1111110110, Fitness: 8
+[6] Genes: 1111110110, Fitness: 8
+[7] Genes: 1111110110, Fitness: 8
+[8] Genes: 1111110110, Fitness: 8
+[9] Genes: 1111110110, Fitness: 8
+[10] Genes: 1111110110, Fitness: 8
+[11] Genes: 1110110110, Fitness: 7
+[12] Genes: 1111110010, Fitness: 7
+[13] Genes: 1111110100, Fitness: 7
+[14] Genes: 1111110010, Fitness: 7
+[15] Genes: 1110110110, Fitness: 7
+[16] Genes: 1011010110, Fitness: 6
+[17] Genes: 1011011111, Fitness: 0
+[18] Genes: 1101110111, Fitness: 0
+[19] Genes: 1011110111, Fitness: 0
+Best Fitness: 8
+Population Diversity: 0.4000
+----------------------------------------
+===== GENERATION 36 =====
+
+Population Details:
+[0] Genes: 1111110110, Fitness: 8
+[1] Genes: 1111110110, Fitness: 8
+[2] Genes: 1111110110, Fitness: 8
+[3] Genes: 1111110110, Fitness: 8
+[4] Genes: 1111110110, Fitness: 8
+[5] Genes: 1111110110, Fitness: 8
+[6] Genes: 1111110110, Fitness: 8
+[7] Genes: 1111110110, Fitness: 8
+[8] Genes: 1111110110, Fitness: 8
+[9] Genes: 1111110110, Fitness: 8
+[10] Genes: 1111100110, Fitness: 7
+[11] Genes: 1011110110, Fitness: 7
+[12] Genes: 1111110100, Fitness: 7
+[13] Genes: 1101110010, Fitness: 6
+[14] Genes: 1111111110, Fitness: 0
+[15] Genes: 1111110111, Fitness: 0
+[16] Genes: 1111111110, Fitness: 0
+[17] Genes: 1101110101, Fitness: 0
+[18] Genes: 0111111110, Fitness: 0
+[19] Genes: 1111111110, Fitness: 0
+Best Fitness: 8
+Population Diversity: 0.4500
+----------------------------------------
+===== GENERATION 37 =====
+
+Population Details:
+[0] Genes: 1111110110, Fitness: 8
+[1] Genes: 1111110110, Fitness: 8
+[2] Genes: 1111110110, Fitness: 8
+[3] Genes: 1111110110, Fitness: 8
+[4] Genes: 1111110110, Fitness: 8
+[5] Genes: 1111110110, Fitness: 8
+[6] Genes: 1111110110, Fitness: 8
+[7] Genes: 1110110110, Fitness: 7
+[8] Genes: 1111110100, Fitness: 7
+[9] Genes: 1111110100, Fitness: 7
+[10] Genes: 1111110111, Fitness: 0
+[11] Genes: 1110111110, Fitness: 0
+[12] Genes: 1111111111, Fitness: 0
+[13] Genes: 1111111110, Fitness: 0
+[14] Genes: 1111111100, Fitness: 0
+[15] Genes: 1111111110, Fitness: 0
+[16] Genes: 0111111110, Fitness: 0
+[17] Genes: 1111111110, Fitness: 0
+[18] Genes: 1111111110, Fitness: 0
+[19] Genes: 1111111111, Fitness: 0
+Best Fitness: 8
+Population Diversity: 0.4500
+----------------------------------------
+===== GENERATION 38 =====
+
+Population Details:
+[0] Genes: 1111110110, Fitness: 8
+[1] Genes: 1111110110, Fitness: 8
+[2] Genes: 1111110110, Fitness: 8
+[3] Genes: 1111110110, Fitness: 8
+[4] Genes: 1111110110, Fitness: 8
+[5] Genes: 1111110110, Fitness: 8
+[6] Genes: 1111110110, Fitness: 8
+[7] Genes: 1111110110, Fitness: 8
+[8] Genes: 1111110110, Fitness: 8
+[9] Genes: 1111110110, Fitness: 8
+[10] Genes: 1111110110, Fitness: 8
+[11] Genes: 1110110110, Fitness: 7
+[12] Genes: 1111110100, Fitness: 7
+[13] Genes: 1111010010, Fitness: 6
+[14] Genes: 1111111110, Fitness: 0
+[15] Genes: 1111110111, Fitness: 0
+[16] Genes: 1111110111, Fitness: 0
+[17] Genes: 1111111111, Fitness: 0
+[18] Genes: 1011010111, Fitness: 0
+[19] Genes: 1111111110, Fitness: 0
+Best Fitness: 8
+Population Diversity: 0.4000
+----------------------------------------
+===== GENERATION 39 =====
+
+Population Details:
+[0] Genes: 1111110110, Fitness: 8
+[1] Genes: 1111110110, Fitness: 8
+[2] Genes: 1111110110, Fitness: 8
+[3] Genes: 1111110110, Fitness: 8
+[4] Genes: 1111110110, Fitness: 8
+[5] Genes: 1111110110, Fitness: 8
+[6] Genes: 1111110110, Fitness: 8
+[7] Genes: 1110110110, Fitness: 7
+[8] Genes: 1111110010, Fitness: 7
+[9] Genes: 1110110110, Fitness: 7
+[10] Genes: 1111110100, Fitness: 7
+[11] Genes: 1111010100, Fitness: 6
+[12] Genes: 1110111010, Fitness: 0
+[13] Genes: 1111110111, Fitness: 0
+[14] Genes: 1111111101, Fitness: 0
+[15] Genes: 1011111110, Fitness: 0
+[16] Genes: 1111011111, Fitness: 0
+[17] Genes: 1111111111, Fitness: 0
+[18] Genes: 1111111100, Fitness: 0
+[19] Genes: 1111110111, Fitness: 0
+Best Fitness: 8
+Population Diversity: 0.6000
+----------------------------------------
+===== GENERATION 40 =====
+
+Population Details:
+[0] Genes: 1111110110, Fitness: 8
+[1] Genes: 1111110110, Fitness: 8
+[2] Genes: 1111110110, Fitness: 8
+[3] Genes: 1111110110, Fitness: 8
+[4] Genes: 1111110110, Fitness: 8
+[5] Genes: 1111110110, Fitness: 8
+[6] Genes: 1111110110, Fitness: 8
+[7] Genes: 1111110110, Fitness: 8
+[8] Genes: 1111110110, Fitness: 8
+[9] Genes: 1111110110, Fitness: 8
+[10] Genes: 1111110100, Fitness: 7
+[11] Genes: 1111110100, Fitness: 7
+[12] Genes: 1001110100, Fitness: 5
+[13] Genes: 1110100010, Fitness: 5
+[14] Genes: 1111011101, Fitness: 0
+[15] Genes: 1111010111, Fitness: 0
+[16] Genes: 1111111110, Fitness: 0
+[17] Genes: 1111110011, Fitness: 0
+[18] Genes: 1111110111, Fitness: 0
+[19] Genes: 1111111110, Fitness: 0
+Best Fitness: 8
+Population Diversity: 0.4500
+----------------------------------------
+===== GENERATION 41 =====
+
+Population Details:
+[0] Genes: 1111110110, Fitness: 8
+[1] Genes: 1111110110, Fitness: 8
+[2] Genes: 1111110110, Fitness: 8
+[3] Genes: 1111110110, Fitness: 8
+[4] Genes: 1111110110, Fitness: 8
+[5] Genes: 1111110110, Fitness: 8
+[6] Genes: 1111110110, Fitness: 8
+[7] Genes: 1111110110, Fitness: 8
+[8] Genes: 1111110100, Fitness: 7
+[9] Genes: 1111110100, Fitness: 7
+[10] Genes: 1111110010, Fitness: 7
+[11] Genes: 1111100110, Fitness: 7
+[12] Genes: 1101110110, Fitness: 7
+[13] Genes: 1111110100, Fitness: 7
+[14] Genes: 1110111111, Fitness: 0
+[15] Genes: 1111110111, Fitness: 0
+[16] Genes: 0110110111, Fitness: 0
+[17] Genes: 1111110111, Fitness: 0
+[18] Genes: 1011111111, Fitness: 0
+[19] Genes: 1111110111, Fitness: 0
+Best Fitness: 8
+Population Diversity: 0.4500
+----------------------------------------
+===== GENERATION 42 =====
+
+Population Details:
+[0] Genes: 1111110110, Fitness: 8
+[1] Genes: 1111110110, Fitness: 8
+[2] Genes: 1111110110, Fitness: 8
+[3] Genes: 1111110110, Fitness: 8
+[4] Genes: 1111110110, Fitness: 8
+[5] Genes: 1111110110, Fitness: 8
+[6] Genes: 1110110110, Fitness: 7
+[7] Genes: 1101110110, Fitness: 7
+[8] Genes: 1101110110, Fitness: 7
+[9] Genes: 1111110100, Fitness: 7
+[10] Genes: 1111100110, Fitness: 7
+[11] Genes: 1111110010, Fitness: 7
+[12] Genes: 1110110010, Fitness: 6
+[13] Genes: 1111101110, Fitness: 0
+[14] Genes: 1111111110, Fitness: 0
+[15] Genes: 1101111111, Fitness: 0
+[16] Genes: 1111111110, Fitness: 0
+[17] Genes: 0111110111, Fitness: 0
+[18] Genes: 1111110111, Fitness: 0
+[19] Genes: 1110110111, Fitness: 0
+Best Fitness: 8
+Population Diversity: 0.6500
+----------------------------------------
+===== GENERATION 43 =====
+
+Population Details:
+[0] Genes: 1111110110, Fitness: 8
+[1] Genes: 1111110110, Fitness: 8
+[2] Genes: 1111110110, Fitness: 8
+[3] Genes: 1111110110, Fitness: 8
+[4] Genes: 1111110110, Fitness: 8
+[5] Genes: 1111110110, Fitness: 8
+[6] Genes: 1111110110, Fitness: 8
+[7] Genes: 1111110110, Fitness: 8
+[8] Genes: 1111110110, Fitness: 8
+[9] Genes: 1111110110, Fitness: 8
+[10] Genes: 1111100110, Fitness: 7
+[11] Genes: 1111110010, Fitness: 7
+[12] Genes: 1111110010, Fitness: 7
+[13] Genes: 1110110110, Fitness: 7
+[14] Genes: 1011110110, Fitness: 7
+[15] Genes: 1101110110, Fitness: 7
+[16] Genes: 1100110110, Fitness: 6
+[17] Genes: 1111110111, Fitness: 0
+[18] Genes: 1111111111, Fitness: 0
+[19] Genes: 1111111111, Fitness: 0
+Best Fitness: 8
+Population Diversity: 0.4500
+----------------------------------------
+===== GENERATION 44 =====
+
+Population Details:
+[0] Genes: 1111110110, Fitness: 8
+[1] Genes: 1111110110, Fitness: 8
+[2] Genes: 1111110110, Fitness: 8
+[3] Genes: 1111110110, Fitness: 8
+[4] Genes: 1111110110, Fitness: 8
+[5] Genes: 1111110110, Fitness: 8
+[6] Genes: 1111110110, Fitness: 8
+[7] Genes: 1111110110, Fitness: 8
+[8] Genes: 1111110110, Fitness: 8
+[9] Genes: 1111110110, Fitness: 8
+[10] Genes: 1111110110, Fitness: 8
+[11] Genes: 1111110110, Fitness: 8
+[12] Genes: 1011110110, Fitness: 7
+[13] Genes: 1111110000, Fitness: 6
+[14] Genes: 1111110000, Fitness: 6
+[15] Genes: 1111110111, Fitness: 0
+[16] Genes: 1011110111, Fitness: 0
+[17] Genes: 1011111011, Fitness: 0
+[18] Genes: 1101111110, Fitness: 0
+[19] Genes: 1110111110, Fitness: 0
+Best Fitness: 8
+Population Diversity: 0.4000
+----------------------------------------
+===== GENERATION 45 =====
+
+Population Details:
+[0] Genes: 1111110110, Fitness: 8
+[1] Genes: 1111110110, Fitness: 8
+[2] Genes: 1111110110, Fitness: 8
+[3] Genes: 1111110110, Fitness: 8
+[4] Genes: 1111110110, Fitness: 8
+[5] Genes: 1111110110, Fitness: 8
+[6] Genes: 1111110110, Fitness: 8
+[7] Genes: 0111110110, Fitness: 7
+[8] Genes: 1111110100, Fitness: 7
+[9] Genes: 1011110110, Fitness: 7
+[10] Genes: 1101111111, Fitness: 0
+[11] Genes: 1111110111, Fitness: 0
+[12] Genes: 1111111110, Fitness: 0
+[13] Genes: 1111110111, Fitness: 0
+[14] Genes: 1101111110, Fitness: 0
+[15] Genes: 1111111111, Fitness: 0
+[16] Genes: 1111111111, Fitness: 0
+[17] Genes: 1110111110, Fitness: 0
+[18] Genes: 1011111111, Fitness: 0
+[19] Genes: 1111111110, Fitness: 0
+Best Fitness: 8
+Population Diversity: 0.5500
+----------------------------------------
+===== GENERATION 46 =====
+
+Population Details:
+[0] Genes: 1111110110, Fitness: 8
+[1] Genes: 1111110110, Fitness: 8
+[2] Genes: 1111110110, Fitness: 8
+[3] Genes: 1111110110, Fitness: 8
+[4] Genes: 1111110110, Fitness: 8
+[5] Genes: 1111110110, Fitness: 8
+[6] Genes: 1111110110, Fitness: 8
+[7] Genes: 0111110110, Fitness: 7
+[8] Genes: 1111110010, Fitness: 7
+[9] Genes: 1011110100, Fitness: 6
+[10] Genes: 0111110010, Fitness: 6
+[11] Genes: 1110111011, Fitness: 0
+[12] Genes: 1111111110, Fitness: 0
+[13] Genes: 1111011110, Fitness: 0
+[14] Genes: 1110111111, Fitness: 0
+[15] Genes: 1111101110, Fitness: 0
+[16] Genes: 1101110111, Fitness: 0
+[17] Genes: 1101111110, Fitness: 0
+[18] Genes: 1011111111, Fitness: 0
+[19] Genes: 1111111111, Fitness: 0
+Best Fitness: 8
+Population Diversity: 0.7000
+----------------------------------------
+===== GENERATION 47 =====
+
+Population Details:
+[0] Genes: 1111110110, Fitness: 8
+[1] Genes: 1111110110, Fitness: 8
+[2] Genes: 1111110110, Fitness: 8
+[3] Genes: 1111110110, Fitness: 8
+[4] Genes: 1111110110, Fitness: 8
+[5] Genes: 1111110110, Fitness: 8
+[6] Genes: 1111110010, Fitness: 7
+[7] Genes: 0111110110, Fitness: 7
+[8] Genes: 1110110010, Fitness: 6
+[9] Genes: 0111110010, Fitness: 6
+[10] Genes: 0111100100, Fitness: 5
+[11] Genes: 1111110111, Fitness: 0
+[12] Genes: 1011110111, Fitness: 0
+[13] Genes: 1111111110, Fitness: 0
+[14] Genes: 1111110111, Fitness: 0
+[15] Genes: 1111111010, Fitness: 0
+[16] Genes: 1111110111, Fitness: 0
+[17] Genes: 1111111101, Fitness: 0
+[18] Genes: 0111110111, Fitness: 0
+[19] Genes: 1111111111, Fitness: 0
+Best Fitness: 8
+Population Diversity: 0.6500
+----------------------------------------
+===== GENERATION 48 =====
+
+Population Details:
+[0] Genes: 1111110110, Fitness: 8
+[1] Genes: 1111110110, Fitness: 8
+[2] Genes: 1111110110, Fitness: 8
+[3] Genes: 1111110110, Fitness: 8
+[4] Genes: 1111110110, Fitness: 8
+[5] Genes: 1111110110, Fitness: 8
+[6] Genes: 1111110110, Fitness: 8
+[7] Genes: 1111110110, Fitness: 8
+[8] Genes: 1111100110, Fitness: 7
+[9] Genes: 0111110110, Fitness: 7
+[10] Genes: 1111100110, Fitness: 7
+[11] Genes: 1111110010, Fitness: 7
+[12] Genes: 1011100110, Fitness: 6
+[13] Genes: 0111110100, Fitness: 6
+[14] Genes: 0111110100, Fitness: 6
+[15] Genes: 1111111111, Fitness: 0
+[16] Genes: 1111110111, Fitness: 0
+[17] Genes: 1111110111, Fitness: 0
+[18] Genes: 1110110111, Fitness: 0
+[19] Genes: 1111011111, Fitness: 0
+Best Fitness: 8
+Population Diversity: 0.5000
+----------------------------------------
+===== GENERATION 49 =====
+
+Population Details:
+[0] Genes: 1111110110, Fitness: 8
+[1] Genes: 1111110110, Fitness: 8
+[2] Genes: 1111110110, Fitness: 8
+[3] Genes: 1111110110, Fitness: 8
+[4] Genes: 1111110110, Fitness: 8
+[5] Genes: 1111110110, Fitness: 8
+[6] Genes: 1111110110, Fitness: 8
+[7] Genes: 1111110110, Fitness: 8
+[8] Genes: 1111110110, Fitness: 8
+[9] Genes: 1011110110, Fitness: 7
+[10] Genes: 1011110110, Fitness: 7
+[11] Genes: 1111110100, Fitness: 7
+[12] Genes: 0111110110, Fitness: 7
+[13] Genes: 0111110110, Fitness: 7
+[14] Genes: 1110110110, Fitness: 7
+[15] Genes: 1011110110, Fitness: 7
+[16] Genes: 1110000110, Fitness: 5
+[17] Genes: 1111100101, Fitness: 0
+[18] Genes: 1111101111, Fitness: 0
+[19] Genes: 1111111110, Fitness: 0
+Best Fitness: 8
+Population Diversity: 0.4500
+----------------------------------------
+==== KẾT QUẢ TỐI ƯU ====
+Độ thích nghi: 8
+Đỉnh có trong tập (index): 0 1 2 3 4 5 7 8 
+Genes: 1 1 1 1 1 1 0 1 1 
