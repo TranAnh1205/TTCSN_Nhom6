@@ -17,14 +17,6 @@ public class Individual {
         calculateFitness();
     }
 
-    // Khởi tạo cá thể ngẫu nhiên
-//    public void randomize() {
-//        for (int i = 0; i < graph.size(); i++) {
-//            genes.set(i, Math.random() < 0.5);
-//        }
-//        calculateFitness();
-//    }
-
     // Tính fitness: kích thước clique nếu hợp lệ, ngược lại 0
     public void calculateFitness() {
         int size = genes.cardinality();
